@@ -5,25 +5,25 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "ㅇㅇㅇ"
+    "text": "하병국"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": "ㅇㅇㅇ"
+    "more": "긴 설명",
+    "intro": "잛은 설명",
+    "title": "레미제라븡 관계도"
   },
   "legend": {
-    "edgeLabel": "사람",
-    "colorLabel": "ㅇ",
-    "nodeLabel": "장소 사람"
+    "edgeLabel": "출연빈도",
+    "colorLabel": "모듈러리티",
+    "nodeLabel": "등장인물"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": false,
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
